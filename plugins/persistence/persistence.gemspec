@@ -4,7 +4,7 @@ Gem::Specification.new do |gem|
   gem.summary = ''
   gem.version = '0.0.0'
 
-  gem.add_dependency 'whiteboard'
+  gem.add_dependency 'status_diary'
   gem.add_dependency 'activerecord'
   gem.add_dependency 'pg'
   gem.add_development_dependency 'rspec'

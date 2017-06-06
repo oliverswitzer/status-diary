@@ -1,0 +1,1 @@
+require_relative 'status_diary/use_cases/load_projects_from_gdrive'

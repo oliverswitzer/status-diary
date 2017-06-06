@@ -1,5 +1,5 @@
 Gem::Specification.new do |gem|
-  gem.name = 'status-diary'
+  gem.name = 'status_diary'
   gem.author = ''
   gem.summary = ''
   gem.version = '0.0.0'

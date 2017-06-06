@@ -2,4 +2,8 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'status-diary', path: '../../status-diary'
+gem 'status_diary', path: '../../status_diary'
+
+group :development do
+  gem 'byebug'
+end
